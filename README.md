@@ -9,7 +9,7 @@
 ### 📌 Meus Projetos em Destaque
 
 - ⚙️ [Otimizador-PC](https://github.com/lari-prj/Otimizador-pc) – Ferramenta simples para otimizar o desempenho do computador
-- 🌐 [Landing Page](https://github.com/lari-prj/Landing-page) – Primeira página web com HTML e CSS
+- 🌐 [Pagina-Aoxy-otimizador](https://github.com/lari-pnj/Pagina-Otimizador-Aoxy) –Página web com HTML, CSS e JAVASCRIPT
 - 🎲 [7 Noites na Taberna](https://github.com/lari-prj/7-Noites-Na-Taberna) – Jogo de RPG por terminal com narrativa original
 
 ---
