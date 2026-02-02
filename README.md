@@ -33,15 +33,3 @@ Focada em construir soluções robustas no Back-end com **Java** e interfaces di
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-valleriano-750ab6352/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](larissavaleriano36@gmail.com)
-
-
-- 🎲 [7 Noites na Taberna](https://github.com/lari-prj/7-Noites-Na-Taberna) – Jogo de RPG por terminal (Demonstração de Lógica de Programação).
-- 🌐 [Página Otimizador Aoxy](https://github.com/lari-pnj/Pagina-Otimizador-Aoxy) – Interface web construída com HTML, CSS e JS.
-- ⚙️ [Otimizador-PC](https://github.com/lari-prj/Otimizador-pc) – Ferramenta para performance de sistema.
-
----
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
