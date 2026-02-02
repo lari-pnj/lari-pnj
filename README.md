@@ -1,8 +1,6 @@
 # 👩‍💻 Larissa | Full Stack Developer em construção
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
-Focada em construir soluções robustas no Back-end com **Java** e interfaces dinâmicas no Front-end com **React**. Atualmente, estou consolidando meus conhecimentos em JavaScript.
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
