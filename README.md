@@ -1,6 +1,4 @@
 # 👩‍💻 Larissa | Full Stack Developer em construção
-
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
